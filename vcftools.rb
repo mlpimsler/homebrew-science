@@ -4,7 +4,7 @@ class Vcftools < Formula
   # doi "10.1093/bioinformatics/btr330"
   # tag "bioinformatics"
 
-  url "https://github.com/vcftools/vcftools/archive/v0.1.13.tar.gz"
+  url "https://github.com/vcftools/vcftools/archive/v0.1.14.tar.gz"
   sha256 "0e241da57bc7048161d3751a1be842ad36e6a43f803c91cc9ef18aa15b3fc85e"
 
   head "https://github.com/vcftools/vcftools.git"
