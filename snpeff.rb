@@ -4,8 +4,8 @@ class Snpeff < Formula
   # tag "bioinformatics"
   # doi "10.4161/fly.19695"
 
-  url "https://downloads.sourceforge.net/project/snpeff/snpEff_v4_2_core.zip"
-  version "4.2"
+  url "https://downloads.sourceforge.net/project/snpeff/snpEff_latest_core.zip"
+  version "4.3"
   sha256 "4fc6d9fce23dc50f264b70a72b5f824fad859c1e443c69917057e263b6ad2c04"
 
   bottle do
